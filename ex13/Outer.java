@@ -1,4 +1,4 @@
-class Outer{///Outer.class
+public class Outer{///Outer.class
 
 	class Inner{// Outer$Inner.class
 		void display(){
