@@ -1,4 +1,4 @@
-class Employee
+public class Employee
 {
 	{
          System.out.println("Annonymous blobk");		
