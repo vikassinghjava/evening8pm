@@ -7,13 +7,13 @@
 
 
           <table>
-               <td></td>  
-			   <td></td>
-			   <td></td>
-			   <td></td>
-			   <td></td>
-			   <td></td>
-			   <td></td>
+               <td>data</td>  
+			   <td>data</td>
+			   <td>data</td>
+			   <td>data</td>
+			   <td>data</td>
+			   <td>data</td>
+			   <td>data</td>
         </table> 
 
          <p>paragraph paragraph paragraph paragraph paragraph paragraph paragraph </p>
