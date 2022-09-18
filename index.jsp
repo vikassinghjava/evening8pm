@@ -7,13 +7,33 @@
 		  var y=10;
 	  }
 	  
+
 	   function func2(){
+		   
+	   }
+
+	   function func3(){
+
+		  var x=10;
+		  var y=10;
+	  }
+	  
+	  
+	   function func4(){
+	
+		  var x=10;
+		  var y=10;
+	  }
+	  
+	  function func5(){
+	
 		  var x=10;
 		  var y=10;
 	  }
 	  
 	  
 	  
+
   </script>
    <mytitle> my first page</mytitle>
  </head>
