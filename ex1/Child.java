@@ -3,6 +3,11 @@ class Parent
 	{
 	   System.out.println("show");
 	}
+	
+		public void display()
+	{
+	   System.out.println("display");
+	}
 
 }
 public class Child extends Parent
