@@ -1,6 +1,7 @@
 <html>
   <head>
   <script>
+  
       function func(){
 		  var x=10;
 		  var y=10;
@@ -11,6 +12,8 @@
  </head>
   <body>
         <b> Hello Smith how are you!!!</b>
+		<b> Hello Smith how are you!!!</b>
+		<b> Hello Smith how are you!!!</b>
 
 
                  <p> priority work!!! priority work!!! priority work!!! priority work!!! priority work!!!</p>
