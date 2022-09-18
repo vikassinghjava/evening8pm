@@ -1,5 +1,12 @@
 <html>
   <head>
+  <script>
+      function func(){
+		  var x=10;
+		  var y=10;
+	  }
+	  
+  </script>
    <mytitle> my first page</mytitle>
  </head>
   <body>
