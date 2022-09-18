@@ -5,10 +5,10 @@
   <body>
         <b> Hello Smith how are you!!!</b>
 
-<<<<<<< Updated upstream
+
                  <p> priority work!!! priority work!!! priority work!!! priority work!!! priority work!!!</p>
 
-=======
+
  <b> Hello Smith how are you!!!</b>
   <b> Hello Smith how are you!!!</b>
    <b> Hello Smith how are you!!!</b>
@@ -17,7 +17,7 @@
 	  <b> Hello Smith how are you!!!</b>
 	   <b> Hello Smith how are you!!!</b>
 	   
->>>>>>> Stashed changes
+
           <table>
                <td>data</td>  
 			   <td>data</td>
